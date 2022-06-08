@@ -12,7 +12,7 @@ _🦌 网页小游戏 🥛_
 
 ## 简介
 
-小游戏：吃掉小鹿乃
+小游戏：吃掉豆粒香
 
 [English](README_EN.md)
 |
@@ -53,11 +53,11 @@ _🦌 网页小游戏 🥛_
      "game-title": "新概念音游",
      "game-intro1": "从最底下的开始",
      "game-intro2": "看你能得多少分",
-     "text-level-1": "试着好好练一下?",
-     "text-level-2": "TCL",
-     "text-level-3": "TQL",
-     "text-level-4": "您",
-     "text-level-5": "人?"
+     "text-level-1": "水平不够",
+     "text-level-2": "马马虎虎",
+     "text-level-3": "有点水平",
+     "text-level-4": "你是这个（大拇指.jpg）",
+     "text-level-5": "6"
    }
    ```
 
