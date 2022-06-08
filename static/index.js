@@ -502,11 +502,11 @@ const MODE_NORMAL = 1, MODE_ENDLESS = 2, MODE_PRACTICE = 3;
             SubmitResults();
         }
 
-        if (cps <= 5) return I18N['text-level-1'];
-        if (cps <= 8) return I18N['text-level-2'];
-        if (cps <= 10)  return I18N['text-level-3'];
-        if (cps <= 15) return I18N['text-level-4'];
-        return I18N['text-level-5'];
+        if (cps <= 5) return I18N['水平不够'];
+        if (cps <= 8) return I18N['马马虎虎'];
+        if (cps <= 10)  return I18N['有点技术'];
+        if (cps <= 15) return I18N['你是这个(大拇指.jpg)'];
+        return I18N['孩子们你们喜欢我么？'];
     }
 
     function toStr(obj) {
